@@ -1,1 +1,1 @@
-# imahe-flex
+# image-flex
